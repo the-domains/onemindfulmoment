@@ -1,19 +1,4 @@
-name: onemindfulmoment
-favicon: null
-layout_spectrum: 0.25634
 typography_spectrum: 0.6831663735210896
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5541288640815765
   saturation: 0.9627081097569317
   rhythmicContrast: 0.7690157864708453
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25634
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: onemindfulmoment
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ONE MINDFUL MOMENT
 purpose: []
